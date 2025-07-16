@@ -29,7 +29,7 @@ Different LLMs shine at different tasks. This tool helps users (especially non-t
 🎯 Beta release expected Q3 2025
 
 ## 👥 Credits
-Developed by [Your Name]
+Developed by Sahib Sood
 
 ## 📝 License
 TBD
